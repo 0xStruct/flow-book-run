@@ -7,6 +7,9 @@ Imagine Jupyter Notebook, JS Fiddle, etc, but for Flow development.
 Work on this project is inspired by the web-based Flow Playground's ease-of-use but is itched by its quirks and limitations.
 Now with _FLOW BOOK 📓 RUN 🏃_ **DEVEX** of the Playground is more stable, portable and seamless within day-to-day developer workflows.
 
+**DEMO VIDEO**
+https://www.youtube.com/watch?v=_0RPxIJQfFw
+
 _FLOW BOOK 📓 RUN 🏃_ is currently made of 2 VS Code extensions
 
 - _FLOW RUN 🏃_
