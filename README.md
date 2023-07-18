@@ -31,7 +31,7 @@ Install as `.vsix`. Read how to do it here: https://community.particle.io/t/how-
 
 Get `.vsix` of FLOW BOOK 📓 RUN 🏃
 - https://github.com/0xStruct/flow-book-run/blob/main/vscode-flow-run/flow-run-1.0.0.vsix
-- https://github.com/0xStruct/flow-book-run/blob/main/vscode-flow-notebook/flow-run-1.0.0.vsix
+- https://github.com/0xStruct/flow-book-run/blob/main/vscode-flow-notebook/flow-notebook-0.1.0.vsix
 
 Or clone this repo
 
