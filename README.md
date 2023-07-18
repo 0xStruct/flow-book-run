@@ -34,8 +34,12 @@ Get `.vsix` of FLOW BOOK 📓 RUN 🏃
 - https://github.com/0xStruct/flow-book-run/blob/main/vscode-flow-notebook/flow-run-1.0.0.vsix
 
 Or clone this repo
-`code vscode-flow-run` then in VSCode press `F5` to open up editor window with the extension in debug mode.
-`code vscode-flow-notebook` then in VSCode press `F5` to open up editor window with the extension in debug mode.
+
+`code vscode-flow-run` 
+then in VSCode press `F5` to open up editor window with the extension in debug mode.
+
+`code vscode-flow-notebook` 
+then in VSCode press `F5` to open up editor window with the extension in debug mode.
 
 
 
