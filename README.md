@@ -10,7 +10,7 @@ Now with _FLOW BOOK 📓 RUN 🏃_ **DEVEX** of the Playground is more stable, p
 _FLOW BOOK 📓 RUN 🏃_ is currently made of 2 VS Code extensions
 
 - _FLOW RUN 🏃_
-- 
+
 https://github.com/0xStruct/flow-book-run/tree/main/vscode-flow-run
 This extension is to run and document Cadence (.cdc) scripts and transactions right within editor with just a click.
 This is inspired by how the Playground enable testing of scripts and transactions. 
